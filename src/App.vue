@@ -19,7 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <RouterView /> -->
   <el-card>
-    <el-button>点击</el-button>
+    <el-button>点击11</el-button>
     <img src="@/assets/background.jpg">
   </el-card>
 </template>
